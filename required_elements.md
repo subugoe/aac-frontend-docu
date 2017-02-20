@@ -26,3 +26,4 @@
 # Todo
 
 - [] Liste gruppieren
+- [] Items priorisieren
