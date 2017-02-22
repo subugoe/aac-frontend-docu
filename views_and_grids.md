@@ -6,6 +6,8 @@
 - **M** – Tablet (Portrait mode)
 - **S** – Phone
 
+> When talking about views we refer to them as XL-S instead of desktop, tablet etc. because size (or form factor) doesn't imply anything usefull really… a **M View** might be a rather big iPad Pro which is used by touch or it might be a rather small keyboard/mouse dependend MacBook Air.
+
 ## Grids
 
 |                  | XL          | L           | M       | S           |
