@@ -5,6 +5,7 @@
 
 ## Overview
 
+### [colors.md](https://github.com/subugoe/aac-frontend-docu/blob/master/colors.md)
 ### [views_and_grid.md](https://github.com/subugoe/aac-frontend-docu/blob/master/views_and_grids.md)
 
 ## Copyright

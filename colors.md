@@ -3,11 +3,11 @@
 ## List
 - ```#183267``` (Brand)
 - ```#F4D64A``` (Accent)
-- ```#191919```
-- ```#545454```
-- ```#A8A8A8```
-- ```#F2F2F2```
-- ```#FFFFFF```
+- ```#191919``` (Grey darkest)
+- ```#545454``` (Grey dark)
+- ```#A8A8A8``` (Grey light)
+- ```#F2F2F2``` (Grey lightest)
+- ```#FFFFFF``` (White)
 
 ## A11Y verify
 
