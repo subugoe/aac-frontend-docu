@@ -27,4 +27,3 @@ AAC is using an adaptive layout where the smallest width is 320px which grows re
 # Todo
 
 - [x] Grid M
-- [ ] What
