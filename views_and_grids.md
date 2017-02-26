@@ -1,5 +1,11 @@
 # Views and Grids
 
+## Responsive, adaptive or liquid?
+
+AAC is using an adaptive layout where the smallest width is 320px which grows responsive up to 480px, followed by 768px width and 960px width.
+
+[Reference](http://www.liquidapsive.com/)
+
 ## Views
 
 - **XL-L** – Tablet (Landscape mode), Notebook and Desktop
@@ -11,7 +17,7 @@
 ## Grids
 
 |                  | XL          | L           | M           | S           |
-| ---------------: | ------:     | ----------: | ----------: | ----------: |
+| ---------------: | ----------: | ----------: | ----------: | ----------: |
 | **Position**     | center      | center      | center      | center      |
 | **Width**        | ```960px``` | ```960px``` | ```768px``` | ```320px``` |
 | **Columns**      | 12          | 12          | 12          | 6           |
@@ -21,3 +27,4 @@
 # Todo
 
 - [x] Grid M
+- [ ] What
