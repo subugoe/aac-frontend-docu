@@ -12,7 +12,7 @@ AAC is using an adaptive layout where the smallest width is 320px which grows re
 - **M** – Tablet (Portrait mode)
 - **S** – Phone
 
-> When talking about views we refer to them as XL-S instead of desktop, tablet etc. because size (or form factor) doesn't imply anything useful really… a **M View** might be a rather big iPad Pro which is used by touch or it might be a rather small keyboard/mouse dependent MacBook Air.
+> When talking about views we refer to them as XL-S instead of desktop, tablet etc. because size (or form factor) doesn't imply anything useful really… a **M View** might be a rather big tablet which is used by touch or it might be a rather small keyboard/mouse dependent notebook.
 
 ## Grids
 
